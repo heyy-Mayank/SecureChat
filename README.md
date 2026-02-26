@@ -88,7 +88,7 @@ SecureChat/
 ### 🚀 Quick Setup Guide: 
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/SecureChat.git
+https://github.com/heyy-Mayank/SecureChat.git
 cd SecureChat
 
 ### 2️⃣ Install Server Dependencies
