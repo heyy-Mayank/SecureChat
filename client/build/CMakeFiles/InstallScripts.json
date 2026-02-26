@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/hey_mayank/Desktop/SecureChat/client/build/cmake_install.cmake",
-		"/Users/hey_mayank/Desktop/SecureChat/client/build/IXWebSocket/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
