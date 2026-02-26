@@ -1,0 +1,14 @@
+/Users/hey_mayank/Desktop/SecureChat/client/build/CMakeFiles/client.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/CMakeFiles/edit_cache.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/CMakeFiles/rebuild_cache.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/CMakeFiles/list_install_components.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/CMakeFiles/install.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/CMakeFiles/install/local.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/CMakeFiles/install/strip.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/IXWebSocket/CMakeFiles/ixwebsocket.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/IXWebSocket/CMakeFiles/edit_cache.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/IXWebSocket/CMakeFiles/rebuild_cache.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/IXWebSocket/CMakeFiles/list_install_components.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/IXWebSocket/CMakeFiles/install.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/IXWebSocket/CMakeFiles/install/local.dir
+/Users/hey_mayank/Desktop/SecureChat/client/build/IXWebSocket/CMakeFiles/install/strip.dir
